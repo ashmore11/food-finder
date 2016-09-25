@@ -10,10 +10,11 @@ const rootReducer = combineReducers({
 });
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDazvyybJmssoCAIQ5pzwQhSJd_LOkFDzQ',
-  authDomain: 'scorching-fire-8072.firebaseapp.com',
-  databaseURL: 'https://scorching-fire-8072.firebaseio.com',
-  storageBucket: '',
+  apiKey: 'AIzaSyBkDy3SuMO91LNwwvD4n830KkiwOoWqBy0',
+  authDomain: 'food-finder-1892f.firebaseapp.com',
+  databaseURL: 'https://food-finder-1892f.firebaseio.com',
+  storageBucket: 'food-finder-1892f.appspot.com',
+  messagingSenderId: '449599039126',
 };
 
 const initialState = {};

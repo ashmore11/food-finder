@@ -15,6 +15,8 @@ const config = {
       'react-router',
       'redux',
       'redux-thunk',
+      'firebase',
+      'redux-react-firebase',
     ],
   },
   output: {
